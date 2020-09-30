@@ -153,7 +153,7 @@ $ gunicorn flask_app:app
 
 ![Gunicorn - execute Flask app.](https://raw.githubusercontent.com/admin-dashboards/deploy-flask-app/master/media/gunicorn-flask-app-browser.jpg)
 
----
+<br />
 
 Execute using **waitress** is super simple. We need to write just a single line:
 
@@ -231,7 +231,7 @@ $ sudo systemctl reload nginx
 
 By accessing the port `80` in the browser, we should see the same message previously served by the WSGI apps. 
 
----
+<br />
 
 With all those concepts understood, we can move further with this presentation and mention a few starters already configured for Nginx/Gunicorn, HEROKU, and Docker.
 In case you have issues using the samples, just drop any questions in the comments area or join the AppSeed [Discord](https://discord.gg/fZC6hup) server and ask for help.
@@ -250,7 +250,7 @@ Open-Source admin dashboard coded in **Flask Framework** - Features:
 - Session-Based authentication (via **flask_login**), Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
 
----
+<br />
 
 ![Flask Dashboard - Black Design, dashboard screen.](https://raw.githubusercontent.com/app-generator/flask-black-dashboard/master/media/flask-black-dashboard-screen.png)
 
@@ -304,7 +304,7 @@ Open-Source admin dashboard coded in **Flask Framework** - Features:
 - Session-Based authentication (via **flask_login**), Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
 
----
+<br />
 
 ![Flask Dashboard Atlantis Dark - Starter project coded in Flask.](https://raw.githubusercontent.com/app-generator/flask-dashboard-atlantis-dark/master/media/flask-dashboard-atlantis-dark-screen.png)
 
@@ -322,7 +322,7 @@ Open-Source admin dashboard coded in **Flask Framework** - Features:
 - Session-Based authentication (via **flask_login**), Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
 
----
+<br />
 
 ![Flask Dashboard CoreUI - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-coreui/master/media/flask-dashboard-coreui-screen.png)
 
